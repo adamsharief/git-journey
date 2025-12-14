@@ -11,4 +11,3 @@ Qa
 
 Editing in the github
 
-Adding more content
